@@ -11,5 +11,5 @@ hi def link AteaProject		Type
 hi def link AteaTodo		PreProc
 hi def link AteaNote		Comment
 hi def link AteaNoteRegion	String
-hi def link AteaEstimate	String
+hi def link AteaEstimate	Type
 
